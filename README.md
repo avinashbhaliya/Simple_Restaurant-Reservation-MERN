@@ -1,1 +1,1 @@
-﻿# Simple-Restaurant-Reservation-MERN
+﻿# Simple-Restaurant-Reservation-Application-MERN
